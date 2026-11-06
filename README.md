@@ -1,3 +1,3 @@
 # noor-projects
-Showcase of personal coding projects and experiments by Noor $hakeel
+Showcase of personal coding projects and experiments by Noor Shakeel
 Project 1 - AI Career Path Advisor: http://localhost:8501/
